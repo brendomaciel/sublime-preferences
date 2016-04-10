@@ -47,9 +47,8 @@ The SublimeLinter-jshint and SublimeLinter-csslint plugins can be easiest instal
 
 `npm install -g jshint` and `npm install -g csslint`
 
-For SublimeLinter-php you must ensure that PHP path is available to use. If it is not, follow this [instructions][sublimelinter-path].
+**Note:** The SublimeLinter-php and SublimeLinter-json plugins don't need additional setup, but you must ensure that PHP command is available to use the same way as node.js. If it is not, follow this [instructions][sublimelinter-path].
 
-**Note:** The SublimeLinter-json no needs aditional setup.
 
 ## Error handling
 
