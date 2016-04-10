@@ -3,7 +3,8 @@ My Sublime Text 3 preferencies
 
 A little package of Sublime Text config files.
 
-[![MIT licensed][shield-license]](#)
+[![MIT licensed][shield-license]][license]
+[![Sublime Text 3][shield-sublime]][sublime]
 
 Table of Contents
 -----------------
@@ -102,6 +103,8 @@ Copyright &copy; 2016, Brendo Maciel
 
 
 
+[sublime]: https://www.sublimetext.com/3
+[license]: https://github.com/brendomaciel/sublime-preferences/blob/master/LICENSE
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.com/
 [hack]: https://github.com/chrissimpkins/Hack
@@ -115,4 +118,5 @@ Copyright &copy; 2016, Brendo Maciel
 [sublimelinter-csslint-installation]: https://github.com/SublimeLinter/SublimeLinter-csslint#installation
 [sublimelinter-php-installation]: https://github.com/SublimeLinter/SublimeLinter-php#installation
 [sublimelinter-json-installation]: https://github.com/SublimeLinter/SublimeLinter-json#installation
+[shield-sublime]: https://img.shields.io/badge/Sublime%20Text-3-orange.svg
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
