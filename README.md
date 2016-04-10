@@ -40,8 +40,10 @@ Installation
 7. Follow this Cmder installation [instructions][cmder-installation]
 
 
-Setup SublimeLinter
--------------------
+Setup
+-----
+
+### SublimeLinter
 
 The SublimeLinter-jshint and SublimeLinter-csslint plugins can be easiest installed with [npm][npm]:
 
@@ -49,8 +51,7 @@ The SublimeLinter-jshint and SublimeLinter-csslint plugins can be easiest instal
 
 **Note:** The SublimeLinter-php and SublimeLinter-json plugins don't need additional setup, but you must ensure that PHP command is available to use the same way as node.js. If it is not, follow this [instructions][sublimelinter-path].
 
-
-## Error handling
+### Error handling
 
 You can visit the plugins' homepages for more details:
 
@@ -58,6 +59,12 @@ You can visit the plugins' homepages for more details:
   * [SublimeLinter-csslint][sublimelinter-csslint-installation]
   * [SublimeLinter-php][sublimelinter-php-installation]
   * [SublimeLinter-json][sublimelinter-json-installation]
+ 
+### Color scheme trick
+
+I use a trick to the background of Dracula color scheme adjust to the Material Theme.
+
+To do it, you must go to `Installed Packages` folder (two levels below regarding `User` folder) and edit the `Dracula.tmTheme` file in the `Dracula Color Scheme.sublime-package`. Simply use some unpacking program. Then you need to change the first background key value to `#263238` (theme's background color).
 
 
 Keyboard shortcuts
