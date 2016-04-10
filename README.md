@@ -31,13 +31,16 @@ Some plugins require the following to run:
 Installation
 ------------
 
-1. Go to Sublime Text
-2. Find the `Preferences -> Browser packages...` from the menu and click it
-3. Open the `User` folder
-4. Close Sublime Text
-5. Put all the files there
-6. Follow this Hack installation [instructions][hack-installation]
-7. Follow this Cmder installation [instructions][cmder-installation]
+1. Clone the repository or simply download [here][download]
+`$ git clone https://github.com/brendomaciel/sublime-preferences`
+
+2. Go to Sublime Text
+3. Find the `Preferences -> Browser packages...` from the menu and click it
+4. Open the `User` folder
+5. Close Sublime Text
+6. Extract and uut all the files there
+7. Follow this Hack installation [instructions][hack-installation]
+8. Follow this Cmder installation [instructions][cmder-installation]
 
 
 Setup
@@ -109,6 +112,7 @@ Copyright &copy; 2016 Brendo Maciel
 
 
 
+[download]: https://github.com/brendomaciel/sublime-preferences/archive/master.zip
 [sublime]: https://www.sublimetext.com/3
 [license]: https://github.com/brendomaciel/sublime-preferences/blob/master/LICENSE
 [node]: https://nodejs.org/
