@@ -98,8 +98,8 @@ Especial thanks to:
 License
 -------
 
-This package is licensed under the [MIT](#) license.
-Copyright &copy; 2016, Brendo Maciel
+This package is licensed under the [MIT][license] license.
+Copyright &copy; 2016 Brendo Maciel
 
 
 
