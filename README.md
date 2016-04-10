@@ -1,7 +1,7 @@
 My Sublime Text 3 preferencies
 ==============================
 
-A little package of Sublime Text config files.
+A little package of Sublime Text config files in Windows environment.
 
 [![MIT licensed][shield-license]][license]
 [![Sublime Text 3][shield-sublime]][sublime]
