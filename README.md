@@ -9,7 +9,7 @@ Table of Contents
 -----------------
 
   * [Requirements](#requirements)
-  * [Installation](#usage)
+  * [Installation](#installation)
   * [Setup](#setup)
   * [Keyboard shortcuts](#keyboard-shortcuts)
   * [Thanks](#thanks)
@@ -30,11 +30,13 @@ Some plugins require the following to run:
 Installation
 ------------
 
-1. Go to Sublime Text and find the *Preferences -> Browser packages...* from the menu.
-2. Open the *User* folder.
-3. Put all the files there.
-4. Follow this Hack installation [instructions][hack-installation].
-5. Follow this Cmder installation [instructions][cmder-installation].
+1. Go to Sublime Text
+2. Find the `Preferences -> Browser packages...` from the menu and click it
+3. Open the `User` folder
+4. Close Sublime Text
+5. Put all the files there
+6. Follow this Hack installation [instructions][hack-installation]
+7. Follow this Cmder installation [instructions][cmder-installation]
 
 
 Setup SublimeLinter
@@ -71,7 +73,7 @@ More details available in [Terminal][terminal].
 ### PHP Companion plugin
 
   * <kbd>F6</kbd> : Expand the class under the cursor to its FQCN (Fully Qualified Class Name)
-  * <kbd>Shift</kbd>+<kbd>f6</kbd> : Expand the class under the cursor to its FQCN (Fully Qualified Class Name) with the leading namespace separator \
+  * <kbd>Shift</kbd>+<kbd>f6</kbd> : Expand the class under the cursor to its FQCN (Fully Qualified Class Name) with the leading namespace separator `\`
   * <kbd>F5</kbd> + Cursor hover : It will show you the different namespace that match your class
   * <kbd>F4</kbd> : It will add the namespace definition based on the absolute filename of the current file
   * <kbd>Shift</kbd>+<kbd>f12</kbd> : It will search for a method definition based on the current scope
