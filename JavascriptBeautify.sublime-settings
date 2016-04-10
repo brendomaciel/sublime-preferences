@@ -1,0 +1,8 @@
+{
+    "brace_style": "end-expand",
+    "keep_array_indentation": false,
+    "keep_function_indentation": false,
+    "max_preserve_newlines": 2,
+    "wrap_line_length": 100,
+    "format_on_save": true
+}
