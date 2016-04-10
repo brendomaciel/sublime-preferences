@@ -31,7 +31,7 @@ Some plugins require the following to run:
 Installation
 ------------
 
-`$ git clone https://github.com/brendomaciel/sublime-preferences`
+```$ git clone https://github.com/brendomaciel/sublime-preferences```
 
 1. Clone the repository or simply download [here][download]
 2. Go to Sublime Text
