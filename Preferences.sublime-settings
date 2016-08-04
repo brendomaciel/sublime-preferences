@@ -14,9 +14,11 @@
 	[
 		"Vintage"
 	],
+	"caret_style": "phase",
 	"indent_to_bracket": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"show_line_endings": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
