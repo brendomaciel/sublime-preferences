@@ -64,12 +64,6 @@ You can visit the plugins' homepages for more details:
   * [SublimeLinter-csslint][sublimelinter-csslint-installation]
   * [SublimeLinter-php][sublimelinter-php-installation]
   * [SublimeLinter-json][sublimelinter-json-installation]
- 
-### Color scheme trick
-
-I use a trick to the background of Dracula color scheme adjust to the Material Theme.
-
-To do it, you must quit the Sublime Text if it is running and go to `Installed Packages` folder (two levels below regarding `User` folder) and edit the `Dracula.tmTheme` file in the `Dracula Color Scheme.sublime-package`. Simply use some unpacking program. Then you need to change the first background key value to `#263238` (theme's background color).
 
 
 Keyboard shortcuts
