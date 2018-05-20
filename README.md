@@ -56,7 +56,7 @@ The SublimeLinter-jshint and SublimeLinter-csslint plugins can be easiest instal
 
 **Note:** The SublimeLinter-php and SublimeLinter-json plugins don't need additional setup, but you must ensure that PHP command is available to use the same way as node.js. If it is not, follow this [instructions][sublimelinter-path].
 
-### Error handling
+#### Error handling
 
 You can visit the plugins' homepages for more details:
 
@@ -64,6 +64,12 @@ You can visit the plugins' homepages for more details:
   * [SublimeLinter-csslint][sublimelinter-csslint-installation]
   * [SublimeLinter-php][sublimelinter-php-installation]
   * [SublimeLinter-json][sublimelinter-json-installation]
+
+### Terminal
+
+You must change the path of the Hyper executable in the `Terminal.sublime-settings` file. Probably you just need to correct the username of the Windows profile.
+
+I tried to use the `%LOCALAPPDATA%` variable on the path so that this step was not necessary, but it did not work.
 
 
 Keyboard shortcuts
