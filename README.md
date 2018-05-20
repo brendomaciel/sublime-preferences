@@ -73,7 +73,9 @@ Keyboard shortcuts
 
 * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : Open the Hyper in current file folder
 
-Note: I could not get the <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> shortcut (which should open Hyper in the current project folder) work properly using Hyper, so if you did, I'd ask you to do a pull-request. :)
+Note: I could not get the <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> shortcut work properly using Hyper, which should open Hyper in the current project folder.
+
+Bonus: If you're interested, you can check out my Hyper settings [here][hyper-preferences].
 
 More details available in [Terminal][terminal].
 
@@ -117,6 +119,7 @@ Copyright &copy; 2016 Brendo Maciel
 [npm]: https://www.npmjs.com/
 [hack]: https://github.com/chrissimpkins/Hack
 [hyper]: https://github.com/zeit/hyper
+[hyper-preferences]: https://github.com/brendomaciel/hyper-preferences
 [terminal]: https://packagecontrol.io/packages/Terminal
 [php-companion]: https://packagecontrol.io/packages/PHP%20Companion
 [sublimelinter-path]: http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable
