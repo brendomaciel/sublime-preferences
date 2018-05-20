@@ -25,7 +25,7 @@ Some plugins require the following to run:
   * [Node.js][node]
   * [npm][npm] (normally comes with Node.js)
   * [Hack Font][hack]
-  * [Cmder][cmder]
+  * [Hyper][hyper]
 
 
 Installation
@@ -42,7 +42,7 @@ $ git clone https://github.com/brendomaciel/sublime-preferences
 5. Close Sublime Text
 6. Extract and uut all the files there
 7. Follow this Hack installation [instructions][hack-installation]
-8. Follow this Cmder installation [instructions][cmder-installation]
+8. Follow this Hyper installation [instructions][hyper-installation]
 
 
 Setup
@@ -71,8 +71,9 @@ Keyboard shortcuts
 
 ### Terminal plugin
 
-* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : Open the Cmder in current file folder
-* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> : Open the Cmder in current project folder
+* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : Open the Hyper in current file folder
+
+Note: I could not get the <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> shortcut (which should open Hyper in the current project folder) work properly using Hyper, so if you did, I'd ask you to do a pull-request. :)
 
 More details available in [Terminal][terminal].
 
@@ -95,6 +96,7 @@ Especial thanks to:
 
   * Sublime Text
   * Node.js and npm
+  * Hyper's author and contribuitors
   * Hack's author and contribuitors
   * Shields.io's author and contribuitors
   * And all Sublime Text's plugins authors and contribuitors
@@ -114,12 +116,12 @@ Copyright &copy; 2016 Brendo Maciel
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.com/
 [hack]: https://github.com/chrissimpkins/Hack
-[cmder]: https://github.com/cmderdev/cmder
+[hyper]: https://github.com/zeit/hyper
 [terminal]: https://packagecontrol.io/packages/Terminal
 [php-companion]: https://packagecontrol.io/packages/PHP%20Companion
 [sublimelinter-path]: http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable
 [hack-installation]: https://github.com/chrissimpkins/Hack#desktop-installation
-[cmder-installation]: https://github.com/cmderdev/cmder#installation
+[hyper-installation]: https://github.com/zeit/hyper
 [sublimelinter-jshint-installation]: https://github.com/SublimeLinter/SublimeLinter-jshint#installation
 [sublimelinter-csslint-installation]: https://github.com/SublimeLinter/SublimeLinter-csslint#installation
 [sublimelinter-php-installation]: https://github.com/SublimeLinter/SublimeLinter-php#installation
